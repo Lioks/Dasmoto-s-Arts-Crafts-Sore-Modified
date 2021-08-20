@@ -1,0 +1,71 @@
+body {
+    font-family: Helvetica;
+    border: 2px solid white;
+    background-image: url(./pictures/pattern.jpg);
+}
+
+h1 {
+    font-family: Permanent Marker, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.item1 {
+    background-color: aliceblue;
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+.item2 {
+    background-color: aliceblue;
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+.item3 {
+    background-color: aliceblue;
+    text-align: center;
+    width: 95%;
+    margin: 2% auto;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+img {
+    border-radius: 10%;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+#brushes {
+    background-color: mediumspringgreen;
+    border-radius: 15px 15px 0 0;
+    
+}
+
+.item {
+    font-weight: bold; 
+    font-size: 18px   
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+#frames {
+    background-color: lightcoral;
+    border-radius: 15px 15px 0 0;
+}
+
+#paint {
+    background-color: skyblue;
+    border-radius: 15px 15px 0 0;
+}
