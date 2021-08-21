@@ -3,7 +3,6 @@ body {
     border: 2px solid white;
     background-image: url(./pictures/pattern.jpg);
 }
-
 h1 {
     font-family: Permanent Marker, Helvetica, sans-serif;
     font-size: 100px;
@@ -26,29 +25,23 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
-
 }
 #brushes {
     background-color: rgba(73, 219, 163, 0.801);
     border-radius: 15px 15px 0 0;
-    
 }
-
 .item {
     font-weight: bold; 
     font-size: 18px   
 }
-
 span {
     color: blue;
     font-weight: bold;
 }
-
 #frames {
     background-color: lightcoral;
     border-radius: 15px 15px 0 0;
 }
-
 #paint {
     background-color: skyblue;
     border-radius: 15px 15px 0 0;
