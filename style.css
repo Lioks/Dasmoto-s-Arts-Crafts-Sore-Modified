@@ -1,22 +1,24 @@
+/*Global Styles*/
 body {
     font-family: Helvetica;
     border: 2px solid white;
     background-image: url(./pictures/pattern.jpg);
+    text-align: center
 }
+/*Header Styles*/
 h1 {
     font-family: Permanent Marker, Helvetica, sans-serif;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    text-align: center;
 }
+/*Main Content Styles*/
 div {
     background-color: aliceblue;
-    text-align: center;
-    width: 95%;
-    margin:30px auto;
+    width: 480px;
+    margin: 10px 5px;
     border-radius: 15px;
-    padding-bottom: 20px;
+    display: inline-block;
 }
 img {
     border-radius: 10%;
@@ -26,10 +28,6 @@ h2 {
     font-weight: bold;
     color: white;
 }
-#brushes {
-    background-color: rgba(73, 219, 163, 0.801);
-    border-radius: 15px 15px 0 0;
-}
 .item {
     font-weight: bold; 
     font-size: 18px   
@@ -38,11 +36,21 @@ span {
     color: blue;
     font-weight: bold;
 }
+.description {
+    padding: 0 5px;
+}
+#brushes {
+    background-color: rgba(73, 219, 163, 0.801);
+    border-radius: 15px 15px 0 0;
+    margin-top: 0;
+}
 #frames {
     background-color: lightcoral;
     border-radius: 15px 15px 0 0;
+    margin-top: 0;
 }
 #paint {
     background-color: skyblue;
     border-radius: 15px 15px 0 0;
+    margin-top: 0;
 }
