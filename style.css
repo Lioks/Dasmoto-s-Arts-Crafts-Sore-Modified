@@ -20,13 +20,13 @@ div {
     border-radius: 15px;
     display: inline-block;
 }
-img {
-    border-radius: 10%;
-}
 h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+img {
+    border-radius: 10%;
 }
 .item {
     font-weight: bold; 
