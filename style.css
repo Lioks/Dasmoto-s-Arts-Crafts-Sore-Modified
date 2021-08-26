@@ -12,6 +12,11 @@ h1 {
     font-weight: bold;
     color: khaki;
 }
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
 /*Main Content Styles*/
 div {
     background-color: aliceblue;
@@ -20,22 +25,18 @@ div {
     border-radius: 15px;
     display: inline-block;
 }
-h2 {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
-}
 img {
     border-radius: 10%;
-}
-.item {
-    font-weight: bold; 
-    font-size: 18px   
 }
 span {
     color: blue;
     font-weight: bold;
 }
+.item {
+    font-weight: bold; 
+    font-size: 18px   
+}
+
 .description {
     padding: 0 5px;
 }
